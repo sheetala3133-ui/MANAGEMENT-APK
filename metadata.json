@@ -1,0 +1,8 @@
+{
+  "name": "Remix: GatePass Manager",
+  "description": "An enterprise gate pass, meeting, and schedule management system designed for seamless visitor tracking, security scanning, and multi-role employee approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
